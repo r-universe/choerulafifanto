@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "samplingin"]
 	path = samplingin
-	url = https://github.com/cran/samplingin
+	url = https://github.com/choerulafifanto/samplingin
